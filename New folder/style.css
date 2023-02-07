@@ -1,0 +1,97 @@
+.hugoFrom {
+    position: relative;
+    width: 55%;
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+    padding-bottom: 50px;
+
+
+}
+
+.question2 {
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    margin: auto;
+
+}
+
+.samuelform {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin-top: 250px;
+   
+}
+
+
+.hugoquestion {
+    display: grid;
+    place-items: center;
+    font-size: 20px;
+}
+
+
+.hugoanswers {
+    margin-top: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.hugoFrom {
+    margin: auto;
+    margin-top: 3%;
+    padding: 25px;
+}
+
+.kirby {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.kirbystyle:hover {
+    color: blue;
+}
+
+
+.hidden {
+    display: none;
+}
+
+
+.edvin {
+    margin-right: 20px;
+}
+
+.fråga
+
+{
+margin: auto;
+margin-top: 100px;
+margin-bottom: 50px;
+text-align:  center;
+
+}
+
+
+.div3 
+
+{
+margin:auto;
+margin-top: ;
+grid-template-columns: 1fr 1fr;
+
+}
+
+.question3
+{
+margin: auto;
+text-align: center;
+margin-bottom: 35%;
+grid-template-columns: 1fr 1fr ;
+}
